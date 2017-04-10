@@ -1,0 +1,36 @@
+#contact {
+
+	background: #FFF8E3 url('../images/backgrounds/keyboard3.jpg') no-repeat center center fixed;
+	background-size: cover;
+	//background-color: $offWhite;
+
+	@media (max-width: 979px) {
+		background-attachment: scroll;
+	}
+
+	form {
+		text-align: left;
+	}
+
+	.social-list {
+		text-align: center;
+		margin-top: -40px;
+
+		li {
+			margin-top: 40px;
+
+			a {
+				text-decoration: none;
+				line-height: 175%;
+				color: $textColor;
+			}
+
+			span {
+				margin: 0 auto;
+				font-size: 400%;
+				color: $linkColor;
+			}
+		}
+	}
+
+}

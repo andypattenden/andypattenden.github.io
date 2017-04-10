@@ -1,0 +1,110 @@
+.header {
+	.logo {
+		color: #33332D;
+
+		@media (max-width: $navbarCollapseWidth) {
+			line-height: 150%;
+		}
+
+		span {
+			color: #CCCC9F;
+		}
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}
+
+#main-nav {
+	.nav {
+		float: right;
+		margin-right: 0;
+	}
+}
+
+.masthead {
+	position: relative;
+	height: 100%;
+	z-index: -100;
+
+	h4 { color: $offWhite; }
+
+	&.error-page {
+		z-index:auto;
+		background-image: url('../images/backgrounds/error.jpg');
+	}
+
+	//background: transparent url('../images/backgrounds/keyboard2.jpg') no-repeat center center fixed;
+	background-image: url('../images/backgrounds/masthead-bg.jpg');
+	background-color: #FFF8E3;
+	background-position: center center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	@media (max-width: 979px) {
+		background-attachment: scroll;
+	}
+
+	.masthead-inner {
+		width: 100%;
+		height: 100%;
+
+		.content {
+			text-align: center;
+			position: fixed;
+			top: 50%;
+			transform: translate(0, -50%);
+			left: 0;
+			width: 100%;
+
+			//top: 35%;
+			//padding: 20px 0;
+			//background: rgba(0,0,0,0.2);
+
+			@media (max-width: 767px) {
+				position: relative;
+				left: 0;
+			}
+		}
+	}
+}
+
+h1 {
+	font-family: $sansFontFamily;
+	font-style: normal;
+	clear: both;
+	color: $offWhite;
+	letter-spacing: -1px;
+	text-shadow: 0 0 20px #33332D;
+
+	@media (min-width: 1200px) {
+		font-size: $baseFontSize * 3.5;
+	}
+
+	@media (min-width: 768px) and (max-width: 979px) {
+		font-size: $baseFontSize * 2.5;
+	}
+
+	@media (min-width: 575px) and (max-width: 767px) {
+		font-size: $baseFontSize * 2;
+	}
+
+	@media (max-width: 574px) {
+		font-size: $baseFontSize * 1.5;
+	}
+
+	.block {
+		display: block;
+		font-size: 200%;
+		line-height: 1em;
+
+		.amp {
+			font-family: $serifFontFamily;
+			font-style: italic;
+			font-weight: normal;
+			color: $highlightColor;
+		}
+	}
+}

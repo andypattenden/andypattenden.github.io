@@ -1,0 +1,31 @@
+#portfolio {
+
+	background: #CCCC9F;
+
+	.recent-projects {
+		border: 1px solid $grayLighter;
+	}
+
+	.project {
+		padding: 75px 5%;
+		background: $white;
+
+		&:nth-child(2n) {
+			background: $grayLighter url('../images/backgrounds/debut_light.png') 0 0 repeat;
+		}
+
+		small {
+			display: block;
+		}
+
+		.lead {
+			width: 75%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		.view-site {
+
+		}
+	}
+}
