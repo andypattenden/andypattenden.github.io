@@ -1,1 +1,56 @@
 
+==================================================================
+https://keybase.io/patts
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.andypattenden.co.uk
+  * I am patts (https://keybase.io/patts) on keybase.
+  * I have a public key ASC3tH-LIae0wiKLvk8n7pXoeO_88PvuI8PLRq8r034juwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b7b47f8b21a7b4c2228bbe4f27ee95e878effcf0fbee23c3cb46af2bd37e23bb0a",
+      "host": "keybase.io",
+      "kid": "0120b7b47f8b21a7b4c2228bbe4f27ee95e878effcf0fbee23c3cb46af2bd37e23bb0a",
+      "uid": "f17b4620628b2efe11a6140e42600119",
+      "username": "patts"
+    },
+    "merkle_root": {
+      "ctime": 1515159715,
+      "hash": "01c477b694413756e8a025a448f484652e66830f597dced5406795cfde384aed5019c3a7fcf73df68309394f278d2a5ae1d137ec04237cd0755a045d7d6e74e6",
+      "hash_meta": "0bb84c28ef78d0bb2de09d9d241b90047337467e93b8fe580d44a646a69682dc",
+      "seqno": 1890456
+    },
+    "service": {
+      "hostname": "www.andypattenden.co.uk",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515159745,
+  "expire_in": 504576000,
+  "prev": "8b1697f65c89b7daffe0eca23e466fd0fbf578caaa9701f0256585ad89bba15f",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgt7R/iyGntMIii75PJ+6V6Hjv/PD77iPDy0avK9N+I7sKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjdiNDdmOGIyMWE3YjRjMjIyOGJiZTRmMjdlZTk1ZTg3OGVmZmNmMGZiZWUyM2MzY2I0NmFmMmJkMzdlMjNiYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjdiNDdmOGIyMWE3YjRjMjIyOGJiZTRmMjdlZTk1ZTg3OGVmZmNmMGZiZWUyM2MzY2I0NmFmMmJkMzdlMjNiYjBhIiwidWlkIjoiZjE3YjQ2MjA2MjhiMmVmZTExYTYxNDBlNDI2MDAxMTkiLCJ1c2VybmFtZSI6InBhdHRzIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE1MTU5NzE1LCJoYXNoIjoiMDFjNDc3YjY5NDQxMzc1NmU4YTAyNWE0NDhmNDg0NjUyZTY2ODMwZjU5N2RjZWQ1NDA2Nzk1Y2ZkZTM4NGFlZDUwMTljM2E3ZmNmNzNkZjY4MzA5Mzk0ZjI3OGQyYTVhZTFkMTM3ZWMwNDIzN2NkMDc1NWEwNDVkN2Q2ZTc0ZTYiLCJoYXNoX21ldGEiOiIwYmI4NGMyOGVmNzhkMGJiMmRlMDlkOWQyNDFiOTAwNDczMzc0NjdlOTNiOGZlNTgwZDQ0YTY0NmE2OTY4MmRjIiwic2Vxbm8iOjE4OTA0NTZ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmFuZHlwYXR0ZW5kZW4uY28udWsiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE1MTU5NzQ1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjhiMTY5N2Y2NWM4OWI3ZGFmZmUwZWNhMjNlNDY2ZmQwZmJmNTc4Y2FhYTk3MDFmMDI1NjU4NWFkODliYmExNWYiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAfh7vC9q5D+HBlobrcjJ/i/y5/sN01ttCEhbB4OgtFN5x5Js7UDDeSMHxbVIi8dNWpECFH+ib0rMvAfMCmDjQJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQggNI+k+HZc5KJB6E66TGhqrUFqAl7YPyQWtsZ92LykuGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/patts
+
+==================================================================
